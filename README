@@ -1,0 +1,13 @@
+Pion candidat : dans une colonne semi-ouverte
+Pion arriéré : ne peut pas avancer car sa case de blocage est affaiblie et n'est pas protégeable par d'autres pions
+Pio isolé : 
+
+Dans la Najdorff: d6 est arriéré
+e4-c5
+Cf3-d6
+d4-cxd4
+Cxd4 Cf6
+Cc3 a6
+Fe2 e5
+Cb3
+
